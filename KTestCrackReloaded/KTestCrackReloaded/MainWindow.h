@@ -135,7 +135,7 @@ namespace KTestCrackReloaded {
 	private: System::Void hookBtn_Click(System::Object^ sender, System::EventArgs^  e) {
 		procId = MemPatcher::GetProcId(L"tester.exe");
 		moduleBase = MemPatcher::GetModuleBaseAddress(procId, L"tester.exe");
-		if (procId == 0 && moduleBase == 0) MessageBoxA(static_cast<HWND>(this->Handle.ToPointer()), "Unable to hook! Check if HyperTest is running", "ERROR", MB_ICONERROR | MB_OK);
+		if (procId == 0 && moduleBase == 0) MessageBoxA(static_cast<HWND>(this->Handle.ToPointer()), "Unable to hook! Check if KTest is running", "ERROR", MB_ICONERROR | MB_OK);
 		else {
 			hookBtn->Enabled = false;
 			procstatusLabel->Text = "HOOKED";
