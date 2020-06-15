@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  main.cpp
+d:\projects\ktestcrackreloaded\ktestcrackreloaded\ktestcrackreloaded\mainwindow.h(160): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  MemPatcher.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  KTestCrackReloaded.vcxproj -> D:\Projects\KTestCrackReloaded\KTestCrackReloaded\Release\KTestCrackReloaded.exe

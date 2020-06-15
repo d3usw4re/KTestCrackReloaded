@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"+12C99C Good answer Count"</Description>
+      <LastState Value="0" RealAddress="0052C99C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>tester.exe+12C99C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"+12C9A0 Bad answer Count"</Description>
+      <LastState Value="0" RealAddress="0052C9A0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>tester.exe+12C9A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"+125150 Overal questions count"</Description>
+      <LastState Value="13" RealAddress="00525150"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>tester.exe+125150</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"+1289F4 Current question index"</Description>
+      <LastState Value="0" RealAddress="005289F4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>tester.exe+1289F4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"+12C998 Completed questions count"</Description>
+      <LastState Value="0" RealAddress="0052C998"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>tester.exe+12C998</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"+12C98C First result counter mark"</Description>
+      <LastState Value="10" RealAddress="0052C98C"/>
+      <VariableType>Float</VariableType>
+      <Address>tester.exe+12C98C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"+12C994 Second result counter mark"</Description>
+      <LastState Value="8.399999619" RealAddress="0052C994"/>
+      <VariableType>Float</VariableType>
+      <Address>tester.exe+12C994</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"+12C9B0 Seconds timer"</Description>
+      <LastState Value="10" RealAddress="0052C9B0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>tester.exe+12C9B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"+12C9AC Minutes timer"</Description>
+      <LastState Value="2323" RealAddress="0052C9AC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>tester.exe+12C9AC</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
