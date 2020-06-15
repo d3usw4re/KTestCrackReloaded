@@ -11,7 +11,7 @@ Press "Hook to KTest" button
 ![alt text](https://github.com/d3usw4re/KTestCrackReloaded/blob/master/img/step2.PNG?raw=true)
 ## Step 3
 Using TrackBar select desired score<br/>
-And press Patch mem with specified result
+Press Patch mem with specified result
 
 ![alt text](https://github.com/d3usw4re/KTestCrackReloaded/blob/master/img/step3.PNG?raw=true)
 ## Step 4
